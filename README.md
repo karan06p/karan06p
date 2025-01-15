@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an enthusiastic <b>Full Stack Developer</b>. Currently working on building full-stack applications. I'm always excited to dive deeper into software development, enhance my skillset, and contribute to impactful projects.<br><br>🔧 Skills & Tools<br>Languages: JavaScript, TypeScript, HTML, CSS<br>Frontend: Next.js, React<br>Backend: Node.js, Express, MongoDB<br>Authentication: Clerk, custom auth systems<br>Others: Git, Vercel, Cloudinary API<br><br>🌱 What I'm Learning<br>Building custom authentication to understand security fundamentals<br>Creating scalable and interactive full-stack applications with a focus on real-time features</p>
+<p align="left">I'm an enthusiastic <b>Full Stack Developer</b>. Currently working on building a Video Streaming platform. I'm always excited to dive deeper into software development, enhance my skillset, and contribute to impactful projects.<br><br>🔧 Skills & Tools<br>Languages: JavaScript, TypeScript, HTML, CSS<br>Frontend: Next.js, React<br>Backend: Node.js, Express, MongoDB<br>Authentication: Clerk, custom auth systems<br>Others: Git, Vercel, Cloudinary API<br><br>🌱 What I'm Learning<br>Building custom authentication to understand security fundamentals<br>Creating scalable and interactive full-stack applications with a focus on real-time features</p>
 
 ###
 
